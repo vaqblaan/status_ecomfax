@@ -1,0 +1,3 @@
+[submodule "ecomfax-status"]
+	path = ecomfax-status
+	url = git@ssh.dev.azure.com:v3/cloudworldwideservices/DevOps/ecomfax-status
