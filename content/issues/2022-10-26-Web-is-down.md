@@ -6,6 +6,6 @@ resolvedWhen:
 # Possible severity levels: down, disrupted, notice
 severity: down
 affected:
-  - website
+  - Website
 section: issue
 ---
