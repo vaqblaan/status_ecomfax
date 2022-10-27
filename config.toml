@@ -93,7 +93,7 @@ defaultContentLanguage = "en"
 #
 # Broken example:
 # baseUrl: /
-baseURL = "https://vaqblaan.github.io/status_ecomfax/"
+baseURL = "https://main.dhw5pgz9g8tt7.amplifyapp.com/"
 
 # For features like Last modified, you
 # need to use a Git repository. If you
